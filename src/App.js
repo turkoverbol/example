@@ -1,6 +1,6 @@
 import React from 'react';
 import Blockmain from './components/Blockmain.js'
-// import Block from './components/block/Block.js'
+import Block from './components/block/Block.js'
 import './App.css';
 
 function App() {
@@ -9,7 +9,7 @@ function App() {
       <div className="wrapper">
         <div className="container">
           <Blockmain />
-          {/* <Block /> */}
+          <Block />
         </div>
       </div>
     </>
