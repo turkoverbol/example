@@ -1,0 +1,37 @@
+.block {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.block_1_container {
+    padding-top: 60px;
+    padding-bottom: 20px;
+    width: 353px;
+    height: 393px;
+    background: #E9E4D5;
+    border: none;
+    border-radius: 20px;
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
+.block_2_container {
+    padding-top: 65px;
+    padding-bottom: 20px;
+    width: 353px;
+    height: 430px;
+    background: #E9E4D5;
+    border: none;
+    border-radius: 20px;
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
+.block_1_zogo {
+    font-size: 28px;
+    font-weight: 400;
+    font-style: normal;
+    color: #163A24;
+}
+.cont_img_text {
+    margin: 0 30px;
+}
+.list {
+    margin: 30px 0;
+}

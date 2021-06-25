@@ -1,0 +1,14 @@
+.wrapper {
+    position: relative;
+    margin: 0 auto;
+    background: #6A655D;
+    overflow: hidden;
+}
+.container {
+    max-width: 1170px;
+    margin: 0 auto;
+    height: 788px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}

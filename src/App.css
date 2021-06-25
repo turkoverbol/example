@@ -1,3 +1,15 @@
+.wrapper {
+  position: relative;
+  margin: 0 auto;
+  background: #E5E5E5;
+  overflow: hidden;
+}
+.container {
+  max-width: 1170px;
+  margin: 0 auto;
+  min-height: 100%;
+}
+
 .App {
   text-align: center;
 }
@@ -14,7 +26,6 @@
 }
 
 .App-header {
-  background-color: #282c34;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
